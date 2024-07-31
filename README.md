@@ -15,7 +15,7 @@ info:
   author: Hu$SHA
   description: Allowing access the /derby without authentication and perform operations, such as querying or deleting databases
   reference:
-    - https://github.com/VictorShem/CVE-2024-4577
+    - https://github.com/VictorShem/QVD-2024-26473
     - https://www.cnnvd.org.cn/home/globalSearch?keyword=CNNVD-202104-2000
     - https://www.cnvd.org.cn/flaw/show/CNVD-2020-67618
     - https://ti.qianxin.com/vulnerability/detail/94994
